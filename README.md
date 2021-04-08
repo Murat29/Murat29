@@ -17,4 +17,3 @@
 ### Контакты:
 * email: murat199611@mail.ru
 * telegram: @SPB_Akmurat_Khodzhatov
-3
