@@ -2,7 +2,7 @@
 
 * 💻 В поисках работы, на которой буду решать боевые задачи
 * <img src="https://webformyself.com/javascript/img/icon-js.png" width="20" height="20"> Хочу глубоко освоить JavaScript
-* <img src="https://e7.pngegg.com/pngimages/155/873/png-clipart-computer-icons-technology-innovation-business-technology-white-electronics.png" width="20" height="20"> Освоить новые технологии
+* <img src="https://image.flaticon.com/icons/png/512/2186/2186491.png" width="20" height="20"> Освоить новые технологии
 * 📃 Хочу писать чистый и понятный код
 
 
