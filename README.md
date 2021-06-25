@@ -12,7 +12,7 @@
 
 ### Ранг на СodeWars:
 
-<img src="https://www.codewars.com/users/Akmurat%20Khodzatov/badges/large" width="400" height="40">
+<img src="https://www.codewars.com/users/Akmurat%20Khodzhatov/badges/large" width="400" height="40">
 
 ### Контакты:
 * email: murat199611@mail.ru
